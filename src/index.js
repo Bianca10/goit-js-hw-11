@@ -2,7 +2,7 @@
 
 import simpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
-import { fetchImages } from './api.js';
+import { fetchImages } from './API.js';
 import './css/styles.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
